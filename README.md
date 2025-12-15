@@ -26,3 +26,22 @@ This project analyzes stakeholder and financial performance using a CSV dataset 
 - CSV Dataset
 - Data Visualization Tool (Power BI / Tableau / Excel)
 - Dashboard Design
+
+## ⬇️ How to Download & Open the Tableau Dashboard
+
+1. Click on the **Tableau Dashboard file (.twbx / .twb)** available in this repository.
+2. Click on **Download** to save the file on your local system.
+3. Install **Tableau Public** or **Tableau Desktop** (if not already installed).
+   - Tableau Public is free and can be used to open the dashboard.
+4. Open Tableau → Click on **Open Workbook**.
+5. Select the downloaded Tableau file to view the interactive dashboard.
+
+📌 Note:  
+If the dashboard is provided as a **PDF or image**, it is for **viewing purposes only**.  
+To explore filters and interactivity, please open the Tableau file.
+
+## 📂 Dataset Information
+
+- The dataset is provided in CSV format.
+- The Tableau dashboard is built using this dataset.
+- If the data source connection is broken, please reconnect the CSV file when opening the Tableau workbook.
